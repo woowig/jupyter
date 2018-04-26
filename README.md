@@ -10,4 +10,3 @@ docker run -it --rm -v $HOME/Documents/notebooks:/data -p 8888:8888 woowig/jupyt
 ```
 
 等を実行した後、 `http://localhost:8080` を開きます。
-
